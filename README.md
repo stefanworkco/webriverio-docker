@@ -2,8 +2,6 @@
 
 ## Documentation
 
-## Commands
-
 First, use [nvm](https://github.com/nvm-sh/nvm) to ensure the correct Node.js version (specified in .nvmrc)
 
 ```bash
