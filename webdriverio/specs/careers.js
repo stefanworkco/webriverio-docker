@@ -10,7 +10,7 @@ describe('Careers page', () => {
     expect(Careers.logo).toBeDisplayed();
   });
 
-  it("Verify Technology link)", () => {
+  it("Verify Technology link", () => {
     expect(Careers.technologyLink).toHaveAttribute("href", "/careers/technology/");
   });
 });
