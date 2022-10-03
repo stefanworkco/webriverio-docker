@@ -35,7 +35,6 @@ Usage
 
 Clean up
 --------
-
 Shut down the docker grid with command:
   - `docker-compose down`
 
